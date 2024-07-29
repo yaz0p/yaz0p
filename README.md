@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Vladislav!
 
 - 🇷🇺 Currently i'm live in Saint-Petersburg, Russia.
-- 🐍 I'm an software engineer at Rostec.
+- 🐍 I'm an software/ML engineer at Action Tech.
 - 🤖 Most of the time I'm writing on Python, JavaScript, C.
 
 #### If you'd like to contact me, you can use:
