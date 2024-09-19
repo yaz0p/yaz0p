@@ -2,7 +2,7 @@
 
 - 🇷🇺 Currently i'm live in Saint-Petersburg, Russia.
 - 🐍 I'm an software/ML engineer at Action Tech.
-- 🤖 Most of the time I'm writing on Python, JavaScript, C.
+- 🤖 Most of the time I'm writing on Python, C ,TypeScript.
 
 #### If you'd like to contact me, you can use:
 
